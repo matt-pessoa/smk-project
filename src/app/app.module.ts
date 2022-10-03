@@ -3,12 +3,13 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { ArtListModule } from './art-list/art-list.module';
 import { HeaderComponent } from './header/header.component';
 import { HomeModule } from './home/home.module';
 
 @NgModule({
   declarations: [AppComponent, HeaderComponent],
-  imports: [BrowserModule, AppRoutingModule, HomeModule],
+  imports: [BrowserModule, AppRoutingModule, HomeModule, ArtListModule],
   providers: [],
   bootstrap: [AppComponent],
 })
