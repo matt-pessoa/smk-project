@@ -1,0 +1,18 @@
+<section id="slideshow">
+  <div class="slide-card">
+    <img
+      src="../../../assets/img/{{ slideImages[currentSlide].image_thumbnail }}"
+    />
+
+    <h2>Title</h2>
+    <h3 *ngIf="slideImages">
+      {{ slideImages[currentSlide].title }}
+    </h3>
+
+    <h2>Artist</h2>
+    <h3>{{ slideImages[currentSlide].artist }}</h3>
+
+    <h2>Technique</h2>
+    <h3>{{ slideImages[currentSlide].techniques }}</h3>
+  </div>
+</section>

@@ -1,0 +1,177 @@
+[
+  {
+    "id": "1",
+    "title": "Alice",
+    "techniques": "Oil on canvas",
+    "artist": "Amedeo Modigliani",
+    "image_thumbnail": "KMSR145.png"
+  },
+  {
+    "id": "2",
+    "title": "Portrait of Otto Marstrand's two Daughters and their West-Indian Nanny, Justina Antoine, in the Frederiksberg Gardens near Copenhagen",
+    "techniques": "Oil on canvas",
+    "artist": "Wilhelm Marstrand",
+    "image_thumbnail": "KMS8833.png"
+  },
+  {
+    "id": "3",
+    "title": "Forfatterinden Emma Kraft",
+    "techniques": "Oil on canvas",
+    "artist": "Elisabeth Jerichau Baumann",
+    "image_thumbnail": "KMS3728.png"
+  },
+  {
+    "id": "4",
+    "title": "Summer Evening",
+    "techniques": "Oil on canvas",
+    "artist": "Edvard Munch",
+    "image_thumbnail": "KMS2070.png"
+  },
+  {
+    "id": "5",
+    "title": "Portrait of Frederik V in Anointment Robe",
+    "techniques": "Oil on canvas",
+    "artist": "C.W. Eckersberg",
+    "image_thumbnail": "KMS856.png"
+  },
+  {
+    "id": "6",
+    "title": "Stående kvindelig model",
+    "techniques": "Blyant",
+    "artist": "C.W. Eckersberg",
+    "image_thumbnail": "KKS13162.png"
+  },
+  {
+    "id": "7",
+    "title": "The Lifeboat is Taken through the Dunes",
+    "techniques": "Oil on canvas",
+    "artist": "Michael Ancher",
+    "image_thumbnail": "KMS1222.png"
+  },
+  {
+    "id": "8",
+    "title": "At the French Windows. The Artist's Wife",
+    "techniques": "Oil on canvas",
+    "artist": "L.A. Ring",
+    "image_thumbnail": "KMS3716.png"
+  },
+  {
+    "id": "9",
+    "title": "Christ as the Suffering Redeemer",
+    "techniques": "Tempera on panel",
+    "artist": "Andrea Mantegna",
+    "image_thumbnail": "KMSSP69.png"
+  },
+  {
+    "id": "10",
+    "title": "Laocoon",
+    "techniques": "Plaster cast",
+    "artist": "Unknown",
+    "image_thumbnail": "KAS385.png"
+  },
+  {
+    "id": "11",
+    "title": "Discobolus, Roman Copy with Modern Head",
+    "techniques": "Plaster cast",
+    "artist": "Unknown",
+    "image_thumbnail": "KAS1549.png"
+  },
+  {
+    "id": "12",
+    "title": "Hebe",
+    "techniques": "Cast",
+    "artist": "Unknown",
+    "image_thumbnail": "KAS2918.png"
+  },
+  {
+    "id": "13",
+    "title": "Don Miguel de Castro, Emissary of Kongo",
+    "techniques": "Oil on panel",
+    "artist": "Jaspar Beckx",
+    "image_thumbnail": "KMS7.png"
+  },
+  {
+    "id": "14",
+    "title": "Portrait of a Young Lady",
+    "techniques": "Oil on canvas",
+    "artist": "Federico Barocci",
+    "image_thumbnail": "KMSSP44.png"
+  },
+  {
+    "id": "15",
+    "title": "The Waagepetersen Family",
+    "techniques": "Oil on canvas",
+    "artist": "Wilhelm Bendz",
+    "image_thumbnail": "KMS8003.png"
+  },
+  {
+    "id": "16",
+    "title": "Portrait of Cecilie Trier, née Melchior",
+    "techniques": "Oil on canvas",
+    "artist": "Bertha Wegmann",
+    "image_thumbnail": "KMS8643.png"
+  },
+  {
+    "id": "17",
+    "title": "How Well We Go Together",
+    "techniques": "Oil on panel",
+    "artist": "Adriaen Pietersz. van de Venne",
+    "image_thumbnail": "KMS1897.png"
+  },
+  {
+    "id": "18",
+    "title": "Apollo Belvedere",
+    "techniques": "Plaster cast",
+    "artist": "Unknown",
+    "image_thumbnail": "KAS353.png"
+  },
+  {
+    "id": "19",
+    "title": "Ten Women from Stralsund",
+    "techniques": "pen, brown ink",
+    "artist": "Melchior Lorck",
+    "image_thumbnail": "KKS1966-13.png"
+  },
+  {
+    "id": "20",
+    "title": "Artemis",
+    "techniques": "Oil on canvas",
+    "artist": "Vilhelm Hammershøi",
+    "image_thumbnail": "KMS3358.png"
+  },
+  {
+    "id": "21",
+    "title": "Niels Ryberg with his Son Johan Christian and his Daughter-in-Law Engelke, née Falbe",
+    "techniques": "Oil on canvas",
+    "artist": "Jens Juel",
+    "image_thumbnail": "KMS6251.png"
+  },
+  {
+    "id": "22",
+    "title": "Pietà",
+    "techniques": "Plaster cast",
+    "artist": "Unknown",
+    "image_thumbnail": "KAS115.png"
+  },
+  {
+    "id": "23",
+    "title": "Stående kvinde, kopi efter karyatide C, Erechtheion på Athens Akropolis",
+    "techniques": "Plaster cast",
+    "artist": "Unknown",
+    "image_thumbnail": "KAS838.png"
+  },
+  {
+    "id": "24",
+    "title": "Adam and Eve",
+    "techniques": "Kobberstik",
+    "artist": "Albrecht Dürer"    ,
+    "image_thumbnail": "KKSGB4964.png"
+  },
+  {
+    "id": "25",
+    "title": "A Funeral",
+    "techniques": "Oil on canvas",
+    "artist": "Anna Ancher",
+    "image_thumbnail": "KMS1433.png"
+  }
+]
