@@ -28,7 +28,7 @@ export class SlidesComponent implements OnInit {
       .getSlideImages()
       .subscribe((images) => (this.slideImages = images));
 
-    interval(5000).subscribe(() => {
+    interval(10000).subscribe(() => {
       this.updateArt();
     });
   }
