@@ -10,6 +10,7 @@ import { ActivatedRoute } from '@angular/router';
 export class ArtInfoComponent implements OnInit {
   currentArt!: any;
   id!: string;
+  relatedArt!: any[];
 
   constructor(
     private dataService: DataService,

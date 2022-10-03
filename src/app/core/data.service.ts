@@ -11,6 +11,7 @@ export class DataService {
   idUrl: string = '?object_number=';
 
   config: string = '&filters=has_image%3Atrue&offset=0&rows=100&lang=en';
+  lang: string = '&lang=en';
 
   constructor(private http: HttpClient) {}
 
@@ -38,6 +39,6 @@ export class DataService {
   }
 
   getArtById(id: string): Observable<any> {
-    return this.http.get(this.baseArtUrl + this.idUrl + id + '&lang=en');
+    return this.http.get(this.baseArtUrl + this.idUrl + id + this.lang);
   }
 }
