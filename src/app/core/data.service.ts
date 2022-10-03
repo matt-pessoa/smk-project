@@ -6,10 +6,12 @@ import { IArtList, ISlides } from '../shared/interfaces';
 @Injectable()
 export class DataService {
   slideUrl: string = '../../assets/slideImages.json';
-  baseArtUrl: string = 'https://api.smk.dk/api/v1/art/';
-  searchUrl: string = 'search?keys=';
+  baseArtUrl: string = 'https://api.smk.dk/api/v1/art';
+  searchUrl: string = '/search?keys=';
+  idUrl: string = '?object_number=';
 
   config: string = '&filters=has_image%3Atrue&offset=0&rows=100&lang=en';
+  lang: string = '&lang=en';
 
   constructor(private http: HttpClient) {}
 
@@ -34,5 +36,9 @@ export class DataService {
     return this.http.get(
       this.baseArtUrl + this.searchUrl + search + this.config
     );
+  }
+
+  getArtById(id: string): Observable<any> {
+    return this.http.get(this.baseArtUrl + this.idUrl + id + this.lang);
   }
 }

@@ -22,6 +22,7 @@ export class ArtListComponent implements OnInit {
   ngOnInit(): void {
     this.dataService.getArt().subscribe((data: IArtList) => {
       this.artList = data.items;
+      console.log(this.artList);
     });
   }
 }
