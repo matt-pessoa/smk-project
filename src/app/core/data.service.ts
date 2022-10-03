@@ -9,8 +9,7 @@ export class DataService {
   baseArtUrl: string = 'https://api.smk.dk/api/v1/art/';
   searchUrl: string = 'search?keys=';
 
-  config: string = '&offset=0&rows=100';
-  lang: string = '&lang=en';
+  config: string = '&filters=has_image%3Atrue&offset=0&rows=100&lang=en';
 
   constructor(private http: HttpClient) {}
 
