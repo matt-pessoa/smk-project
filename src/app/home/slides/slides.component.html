@@ -1,1 +1,5 @@
-<section id="slideshow"></section>
+<section id="slideshow">
+  <h1 *ngIf="slideImages">
+    {{ slideImages[currentSlide].title }}
+  </h1>
+</section>
