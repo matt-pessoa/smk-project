@@ -4,9 +4,14 @@
   [(ngModel)]="userSearch"
   (keyup)="updateSearch(userSearch)"
 />
-
-<div class="art-card" *ngFor="let art of artList">
-  <img src="{{ art.image_thumbnail }}" />
-  <h1>{{ art.titles[0].title }}, {{ art.production_date[0].period }}</h1>
-  <h2>{{ art.artist }}</h2>
-</div>
+<section id="card-list">
+  <div
+    class="art-card"
+    *ngFor="let art of artList"
+    [routerLink]="['/art', art.object_name]"
+  >
+    <img src="{{ art.image_thumbnail }}" />
+    <h1>{{ art.titles[0].title }}, {{ art.production_date[0].period }}</h1>
+    <h2>{{ art.artist }}</h2>
+  </div>
+</section>

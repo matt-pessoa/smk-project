@@ -16,7 +16,6 @@ export class ArtListComponent implements OnInit {
   updateSearch(value: string) {
     this.dataService.getSearchArt(value).subscribe((data) => {
       this.artList = data.items;
-      console.log(this.artList);
     });
   }
 
