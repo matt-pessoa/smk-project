@@ -8,7 +8,7 @@
   <div
     class="art-card"
     *ngFor="let art of artList"
-    [routerLink]="['/art', art.object_name]"
+    [routerLink]="['/art', art.object_number]"
   >
     <img src="{{ art.image_thumbnail }}" />
     <h1>{{ art.titles[0].title }}, {{ art.production_date[0].period }}</h1>
