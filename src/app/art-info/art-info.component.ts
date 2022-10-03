@@ -8,7 +8,7 @@ import { ActivatedRoute } from '@angular/router';
   styleUrls: ['./art-info.component.sass'],
 })
 export class ArtInfoComponent implements OnInit {
-  currentArt!: {};
+  currentArt!: any;
   id!: string;
 
   constructor(
@@ -21,6 +21,7 @@ export class ArtInfoComponent implements OnInit {
 
     this.dataService.getArtById(this.id).subscribe((data) => {
       this.currentArt = data.items[0];
+      console.log(this.currentArt);
     });
   }
 }

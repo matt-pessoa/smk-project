@@ -1,1 +1,14 @@
-<p>art-info works!</p>
+<section id="art-information">
+  <div class="art-image">
+    <img src="{{ currentArt.image_thumbnail }}" />
+  </div>
+  <div class="art-specs">
+    <h2>{{ currentArt.artist }}</h2>
+    <h1>{{ currentArt.titles[0].title }}</h1>
+    <h3>{{ currentArt.techniques[0] }}</h3>
+
+    <div class="art-colors" *ngFor="let color of currentArt.colors">
+      <span class="dot" [style.background-color]="color"></span>
+    </div>
+  </div>
+</section>
