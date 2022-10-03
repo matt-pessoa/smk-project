@@ -1,8 +1,10 @@
 <section id="slideshow">
-  <div *ngIf="slideImages" class="slide-card">
-    <img
-      src="../../../assets/img/{{ slideImages[currentSlide].image_thumbnail }}"
-    />
+  <div
+    *ngIf="slideImages"
+    class="slide-card"
+    [routerLink]="['/art', slideImages[currentSlide].code]"
+  >
+    <img src="../../../assets/img/{{ slideImages[currentSlide].code }}.png" />
 
     <h2>Title</h2>
     <h3>

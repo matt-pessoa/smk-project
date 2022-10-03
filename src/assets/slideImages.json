@@ -4,174 +4,174 @@
     "title": "Alice",
     "techniques": "Oil on canvas",
     "artist": "Amedeo Modigliani",
-    "image_thumbnail": "KMSR145.png"
+    "code": "KMSR145"
   },
   {
     "id": "2",
     "title": "Portrait of Otto Marstrand's two Daughters and their West-Indian Nanny, Justina Antoine, in the Frederiksberg Gardens near Copenhagen",
     "techniques": "Oil on canvas",
     "artist": "Wilhelm Marstrand",
-    "image_thumbnail": "KMS8833.png"
+    "code": "KMS8833"
   },
   {
     "id": "3",
     "title": "Forfatterinden Emma Kraft",
     "techniques": "Oil on canvas",
     "artist": "Elisabeth Jerichau Baumann",
-    "image_thumbnail": "KMS3728.png"
+    "code": "KMS3728"
   },
   {
     "id": "4",
     "title": "Summer Evening",
     "techniques": "Oil on canvas",
     "artist": "Edvard Munch",
-    "image_thumbnail": "KMS2070.png"
+    "code": "KMS2070"
   },
   {
     "id": "5",
     "title": "Portrait of Frederik V in Anointment Robe",
     "techniques": "Oil on canvas",
     "artist": "C.W. Eckersberg",
-    "image_thumbnail": "KMS856.png"
+    "code": "KMS856"
   },
   {
     "id": "6",
     "title": "Stående kvindelig model",
     "techniques": "Blyant",
     "artist": "C.W. Eckersberg",
-    "image_thumbnail": "KKS13162.png"
+    "code": "KKS13162"
   },
   {
     "id": "7",
     "title": "The Lifeboat is Taken through the Dunes",
     "techniques": "Oil on canvas",
     "artist": "Michael Ancher",
-    "image_thumbnail": "KMS1222.png"
+    "code": "KMS1222"
   },
   {
     "id": "8",
     "title": "At the French Windows. The Artist's Wife",
     "techniques": "Oil on canvas",
     "artist": "L.A. Ring",
-    "image_thumbnail": "KMS3716.png"
+    "code": "KMS3716"
   },
   {
     "id": "9",
     "title": "Christ as the Suffering Redeemer",
     "techniques": "Tempera on panel",
     "artist": "Andrea Mantegna",
-    "image_thumbnail": "KMSSP69.png"
+    "code": "KMSSP69"
   },
   {
     "id": "10",
     "title": "Laocoon",
     "techniques": "Plaster cast",
     "artist": "Unknown",
-    "image_thumbnail": "KAS385.png"
+    "code": "KAS385"
   },
   {
     "id": "11",
     "title": "Discobolus, Roman Copy with Modern Head",
     "techniques": "Plaster cast",
     "artist": "Unknown",
-    "image_thumbnail": "KAS1549.png"
+    "code": "KAS1549"
   },
   {
     "id": "12",
     "title": "Hebe",
     "techniques": "Cast",
     "artist": "Unknown",
-    "image_thumbnail": "KAS2918.png"
+    "code": "KAS2918"
   },
   {
     "id": "13",
     "title": "Don Miguel de Castro, Emissary of Kongo",
     "techniques": "Oil on panel",
     "artist": "Jaspar Beckx",
-    "image_thumbnail": "KMS7.png"
+    "code": "KMS7"
   },
   {
     "id": "14",
     "title": "Portrait of a Young Lady",
     "techniques": "Oil on canvas",
     "artist": "Federico Barocci",
-    "image_thumbnail": "KMSSP44.png"
+    "code": "KMSSP44"
   },
   {
     "id": "15",
     "title": "The Waagepetersen Family",
     "techniques": "Oil on canvas",
     "artist": "Wilhelm Bendz",
-    "image_thumbnail": "KMS8003.png"
+    "code": "KMS8003"
   },
   {
     "id": "16",
     "title": "Portrait of Cecilie Trier, née Melchior",
     "techniques": "Oil on canvas",
     "artist": "Bertha Wegmann",
-    "image_thumbnail": "KMS8643.png"
+    "code": "KMS8643"
   },
   {
     "id": "17",
     "title": "How Well We Go Together",
     "techniques": "Oil on panel",
     "artist": "Adriaen Pietersz. van de Venne",
-    "image_thumbnail": "KMS1897.png"
+    "code": "KMS1897"
   },
   {
     "id": "18",
     "title": "Apollo Belvedere",
     "techniques": "Plaster cast",
     "artist": "Unknown",
-    "image_thumbnail": "KAS353.png"
+    "code": "KAS353"
   },
   {
     "id": "19",
     "title": "Ten Women from Stralsund",
     "techniques": "pen, brown ink",
     "artist": "Melchior Lorck",
-    "image_thumbnail": "KKS1966-13.png"
+    "code": "KKS1966-13"
   },
   {
     "id": "20",
     "title": "Artemis",
     "techniques": "Oil on canvas",
     "artist": "Vilhelm Hammershøi",
-    "image_thumbnail": "KMS3358.png"
+    "code": "KMS3358"
   },
   {
     "id": "21",
     "title": "Niels Ryberg with his Son Johan Christian and his Daughter-in-Law Engelke, née Falbe",
     "techniques": "Oil on canvas",
     "artist": "Jens Juel",
-    "image_thumbnail": "KMS6251.png"
+    "code": "KMS6251"
   },
   {
     "id": "22",
     "title": "Pietà",
     "techniques": "Plaster cast",
     "artist": "Unknown",
-    "image_thumbnail": "KAS115.png"
+    "code": "KAS115"
   },
   {
     "id": "23",
     "title": "Stående kvinde, kopi efter karyatide C, Erechtheion på Athens Akropolis",
     "techniques": "Plaster cast",
     "artist": "Unknown",
-    "image_thumbnail": "KAS838.png"
+    "code": "KAS838"
   },
   {
     "id": "24",
     "title": "Adam and Eve",
     "techniques": "Kobberstik",
     "artist": "Albrecht Dürer"    ,
-    "image_thumbnail": "KKSGB4964.png"
+    "code": "KKSGB4964"
   },
   {
     "id": "25",
     "title": "A Funeral",
     "techniques": "Oil on canvas",
     "artist": "Anna Ancher",
-    "image_thumbnail": "KMS1433.png"
+    "code": "KMS1433"
   }
 ]
