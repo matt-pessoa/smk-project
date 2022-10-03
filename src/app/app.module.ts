@@ -8,6 +8,7 @@ import { ArtListModule } from './art-list/art-list.module';
 import { FavoritesModule } from './favorites/favorites.module';
 import { HeaderComponent } from './header/header.component';
 import { HomeModule } from './home/home.module';
+import { ArtInfoModule } from './art-info/art-info.module';
 
 @NgModule({
   declarations: [AppComponent, HeaderComponent],
@@ -18,6 +19,7 @@ import { HomeModule } from './home/home.module';
     HomeModule,
     ArtListModule,
     FavoritesModule,
+    ArtInfoModule,
   ],
   providers: [],
   bootstrap: [AppComponent],
