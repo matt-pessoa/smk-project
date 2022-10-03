@@ -1,1 +1,10 @@
-<input type="text" placeholder="What are you looking for?" />
+<input
+  type="text"
+  placeholder="What are you looking for?"
+  [(ngModel)]="userSearch"
+  (keyup)="updateSearch(userSearch)"
+/>
+
+<div *ngFor="let art of artList">
+  <img src="{{ art.image_thumbnail }}" />
+</div>

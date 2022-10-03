@@ -1,11 +1,11 @@
 <section id="slideshow">
-  <div class="slide-card">
+  <div *ngIf="slideImages" class="slide-card">
     <img
       src="../../../assets/img/{{ slideImages[currentSlide].image_thumbnail }}"
     />
 
     <h2>Title</h2>
-    <h3 *ngIf="slideImages">
+    <h3>
       {{ slideImages[currentSlide].title }}
     </h3>
 
